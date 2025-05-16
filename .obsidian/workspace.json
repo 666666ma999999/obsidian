@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "436c332ed078db42",
+    "type": "split",
+    "children": [
+      {
+        "id": "f182cffc6cc8154c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0416f3dfcd51ae68",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a90cb427f394fbbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e85199c90812cfa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a334615dbe225d10",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "f2dfa865c0a1ad4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cabc465b95c995cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4d3b28c68f8301ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "6146cafcd61a7bcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c894ccad036191d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025-05-16.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2025-05-16へのバックリンク"
+            }
+          },
+          {
+            "id": "b61d3ade0daf4bf1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PF structure.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from PF structure"
+            }
+          },
+          {
+            "id": "08f5fdf05d0ca475",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "90826c3e210b458b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PF structure.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of PF structure"
+            }
+          },
+          {
+            "id": "cc9299689915d78b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0416f3dfcd51ae68",
+  "lastOpenFiles": [
+    "無題のファイル 1.canvas",
+    "2025-05-16.md",
+    "無題のファイル.canvas",
+    "Untitled 7.canvas",
+    "ai differentiation.md",
+    "div strategy/all.md",
+    "ai.md",
+    "1 bil man.md",
+    "Untitled 6.canvas",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "やらないこと.md",
+    "pf strucure/03 free/Untitled.md",
+    "やること.md",
+    "strategy.md",
+    "api/share.md",
+    "やらないことリスト.md",
+    "div strategy/GW.md",
+    "myself(levelup)/life style",
+    "myself(levelup)/life style/hodiday/spend a weekend.md",
+    "bd.md",
+    "pf strucure/03 free/premiam.md",
+    "pf strucure/03 free/01 daily structure.md",
+    "pf strucure/03 free/line mini.md",
+    "myself(levelup)/life style/weekday/level up.md",
+    "2025-05-15.md",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.md",
+    "order/direction.md",
+    "PF structure.md",
+    "organization chart.md",
+    "未来が見通せない.md",
+    "order",
+    "daily.md",
+    "pf strucure/03 free/function",
+    "api/share",
+    "api",
+    "Untitled 1",
+    "pf strucure/free structute",
+    "pf strucure/ot",
+    "myself(levelup)/life style/weekday",
+    "myself(levelup)/life style/hodiday"
+  ]
+}

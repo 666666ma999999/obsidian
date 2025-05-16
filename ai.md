@@ -1,0 +1,12 @@
+
+obsidian
+
+
+corsor
+
+
+
+
+
+
+[[]]
