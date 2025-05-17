@@ -11,10 +11,17 @@
             "id": "0416f3dfcd51ae68",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 2.canvas",
+                "viewState": {
+                  "x": 15.809999999999999,
+                  "y": -2631.900000000001,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 2"
             }
           }
         ]
@@ -177,19 +184,23 @@
   },
   "active": "0416f3dfcd51ae68",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Untitled 7.canvas",
+    "Untitled.md",
+    "Untitled.canvas",
+    "やらないこと.md",
+    "div strategy/all.md",
     "無題のファイル 1.canvas",
     "2025-05-16.md",
     "無題のファイル.canvas",
-    "Untitled 7.canvas",
     "ai differentiation.md",
-    "div strategy/all.md",
     "ai.md",
     "1 bil man.md",
     "Untitled 6.canvas",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
-    "やらないこと.md",
     "pf strucure/03 free/Untitled.md",
     "やること.md",
     "strategy.md",
@@ -204,10 +215,6 @@
     "pf strucure/03 free/line mini.md",
     "myself(levelup)/life style/weekday/level up.md",
     "2025-05-15.md",
-    "Untitled.canvas",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.md",
     "order/direction.md",
     "PF structure.md",
     "organization chart.md",
