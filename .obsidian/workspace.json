@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f182cffc6cc8154c",
+        "id": "1813c3315cd66c5e",
         "type": "tabs",
         "children": [
           {
-            "id": "0416f3dfcd51ae68",
+            "id": "bb30700e22954289",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled 2.canvas",
-                "viewState": {
-                  "x": 15.809999999999999,
-                  "y": -2631.900000000001,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled 2"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
             }
           }
         ]
@@ -64,7 +57,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "検索"
             }
           },
           {
@@ -74,14 +67,25 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "ブックマーク"
+            }
+          },
+          {
+            "id": "881270956b434a10",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "4d3b28c68f8301ef",
@@ -97,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-05-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +110,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-05-16へのバックリンク"
+              "title": "バックリンク"
             }
           },
           {
@@ -169,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,55 +183,114 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0416f3dfcd51ae68",
+  "floating": {
+    "id": "e752a912cd05883e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ff46be48d9894663",
+        "type": "window",
+        "children": [
+          {
+            "id": "4754ce7879a78b5e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7742dbfcb7ae7131",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "comp/mkb div strategy/all.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "all"
+                }
+              }
+            ]
+          },
+          {
+            "id": "e06fe1b5badc1782",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "91ae8fe9d1f863b1",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2025-05-19 18.35.47.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Drawing 2025-05-19 18.35.47.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -106,
+        "y": -1055,
+        "width": 1576,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "ca625d9f71da9740",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
-    "Untitled 2.canvas",
-    "Untitled 7.canvas",
-    "Untitled.md",
-    "Untitled.canvas",
+    "comp/mkb div strategy/all.md",
+    "comp/mkb div strategy/00 basic.md",
+    "Excalidraw/Drawing 2025-05-19 18.35.47.excalidraw.md",
+    "無料素材展開.md",
+    "comp/mkb div strategy/owned mediaの拡大.md",
+    "comp/mkb div strategy/PF展開.md",
+    "comp/mkb div strategy/新フレームワーク.md",
+    "comp/mkb div strategy/大物監修者.md",
+    "line mini apps.md",
+    "comp/mkb div strategy/集客.md",
+    "Excalidraw/Drawing 2025-05-20 12.26.38.excalidraw.md",
+    "memo (service).md",
+    "organization chart.md",
+    "comp/mkb div strategy/新規サイトのヒット確率.md",
+    "サイト制作へのAI活用.md",
+    "comp/mkb div strategy/campaign.md",
+    "Excalidraw/Drawing 2025-05-20 12.27.02.excalidraw.md",
+    "無題のファイル 3.canvas",
+    "2025-05-20.md",
+    "tips.md",
     "やらないこと.md",
-    "div strategy/all.md",
+    "やること.md",
+    "無題のファイル 2.canvas",
     "無題のファイル 1.canvas",
-    "2025-05-16.md",
     "無題のファイル.canvas",
+    "Excalidraw/Drawing 2025-05-19 18.35.34.excalidraw.md",
+    "Excalidraw",
+    "myself(levelup)/life style/weekday/level up.md",
+    "2025-2026.canvas",
+    "order/direction.md",
+    "myself(levelup)/life style/hodiday/spend a weekend.md",
     "ai differentiation.md",
-    "ai.md",
-    "1 bil man.md",
-    "Untitled 6.canvas",
-    "Untitled 5.canvas",
+    "comp",
+    "Untitled 2.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
-    "pf strucure/03 free/Untitled.md",
-    "やること.md",
-    "strategy.md",
-    "api/share.md",
-    "やらないことリスト.md",
-    "div strategy/GW.md",
+    "Untitled 1.canvas",
+    "Untitled 7.canvas",
     "myself(levelup)/life style",
-    "myself(levelup)/life style/hodiday/spend a weekend.md",
-    "bd.md",
-    "pf strucure/03 free/premiam.md",
-    "pf strucure/03 free/01 daily structure.md",
-    "pf strucure/03 free/line mini.md",
-    "myself(levelup)/life style/weekday/level up.md",
-    "2025-05-15.md",
-    "order/direction.md",
-    "PF structure.md",
-    "organization chart.md",
-    "未来が見通せない.md",
     "order",
-    "daily.md",
     "pf strucure/03 free/function",
     "api/share",
     "api",
     "Untitled 1",
     "pf strucure/free structute",
-    "pf strucure/ot",
-    "myself(levelup)/life style/weekday",
-    "myself(levelup)/life style/hodiday"
+    "pf strucure/ot"
   ]
 }
